@@ -1,4 +1,3 @@
-<<<<<<< HEAD
-=======
 # C_language
->>>>>>> parent of de90fbe (Update README.md)
+
+紀錄寫過程式的經驗
