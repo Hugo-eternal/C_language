@@ -1,2 +1,0 @@
-First =                                           100, Scond = 900
-AbCdEfGhIjKlMnOpQrStUvWxYz987654321
