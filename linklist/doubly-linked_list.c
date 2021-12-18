@@ -89,10 +89,12 @@ int main()
 	InsertAtHead(2); Print(); ReversePrint();
 	InsertAtHead(4); Print(); ReversePrint();
 	InsertAtHead(6); Print(); ReversePrint();
+	free_list(head);
+	head = NULL;
 	printf("Insert at Tail : \n");
-	InsertAtTail(8); Print(); ReversePrint();
-	InsertAtTail(10); Print(); ReversePrint();
-	InsertAtTail(12); Print(); ReversePrint();
+	InsertAtTail(2); Print(); ReversePrint();
+	InsertAtTail(4); Print(); ReversePrint();
+	InsertAtTail(6); Print(); ReversePrint();
 	printf("free!\n");
 	free_list(head);
 	return 0;
